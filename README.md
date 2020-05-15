@@ -1,0 +1,28 @@
+# Form validation with regular expression
+
+A simple form where validations in it where created by JavaScript regular expression. 
+
+### Prerequisites
+
+none
+
+### Installing
+
+git clone https://github.com/letowebdev/Form-Validation-with-JS-Regular-Expression.git
+
+## Deployment
+
+https://zacheabdelatif.website/Projects/JS-RE-form-validation
+
+## Built With
+
+* [JavaScript ES6 & ES7]
+* [disease.sh API]
+
+## Author
+
+* **Zache Abdelatif (Leto)**
+
+## License
+
+This project is licensed under the MIT License
