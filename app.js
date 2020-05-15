@@ -1,8 +1,8 @@
 //From event listners
-document.getElementById('username').addEventListener('blur', validateUserName);
-document.getElementById('zip').addEventListener('blur', validateZipCode);
-document.getElementById('email').addEventListener('blur', validateEmail);
-document.getElementById('phone').addEventListener('blur', validatePhoneNumber);
+document.getElementById('username').addEventListener('keyup', validateUserName);
+document.getElementById('zip').addEventListener('keyup', validateZipCode);
+document.getElementById('email').addEventListener('keyup', validateEmail);
+document.getElementById('phone').addEventListener('keyup', validatePhoneNumber);
 
 //Event listner functions
 
