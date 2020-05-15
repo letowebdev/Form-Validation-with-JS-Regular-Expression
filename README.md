@@ -16,8 +16,9 @@ https://zacheabdelatif.website/Projects/JS-RE-form-validation
 
 ## Built With
 
-* [JavaScript ES6 & ES7]
-* [disease.sh API]
+* [JavaScript]
+* [Regular expressions]
+* [Bootstrap]
 
 ## Author
 
