@@ -1,6 +1,6 @@
 # Form validation with regular expression
 
-A simple form where validations in it where created by JavaScript regular expression. 
+A simple form where validations in it were created by JavaScript regular expression. 
 
 ### Prerequisites
 
