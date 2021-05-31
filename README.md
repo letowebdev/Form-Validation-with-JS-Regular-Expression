@@ -12,7 +12,7 @@ git clone https://github.com/letowebdev/Form-Validation-with-JS-Regular-Expressi
 
 ## Deployment
 
-https://zacheleto.me/Projects/JS-RE-form-validation
+https://zacheleto.de/Projects/JS-RE-form-validation
 
 ## Built With
 
